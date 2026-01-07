@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2026-01-01",
+        "amount": 9000.0,
+        "category": "Trip to nepal",
+        "description": "A Trip to Nepal In New Year"
+    },
+    {
+        "date": "2025-12-26",
+        "amount": 2000.0,
+        "category": "Dinner",
+        "description": "chicken tikka"
+    }
+]
